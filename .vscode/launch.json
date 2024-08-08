@@ -1,0 +1,126 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "SistemaIBGE",
+            "request": "launch",
+            "mainClass": "pooComJava.enums.SistemaIBGE",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "Escola",
+            "request": "launch",
+            "mainClass": "pooComJava.gettersESetters.Escola",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "condicionalComposta",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.condicionais.condicionalComposta",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "condicionalEncadeada",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.condicionais.condicionalEncadeada",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "condicionalSimples",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.condicionais.condicionalSimples",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "condicionalSwitch",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.condicionais.condicionalSwitch",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "condicionalTernaria",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.condicionais.condicionalTernaria",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "ProcessoSeletivo",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.desafios.controleCanditados.candidatura.ProcessoSeletivo",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.desafios.controleFluxo.Contador",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "CepInvalidoException",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.excepcionais.CepInvalidoException",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "excepcionalTryCatch",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.excepcionais.excepcionalTryCatch",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "breakEContinue",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.repeticoes.breakEContinue",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "repeticaoDoWhile",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.repeticoes.repeticaoDoWhile",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "repeticaoFor",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.repeticoes.repeticaoFor",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        },
+        {
+            "type": "java",
+            "name": "repeticaoWhile",
+            "request": "launch",
+            "mainClass": "sintaxeBasica.repeticoes.repeticaoWhile",
+            "projectName": "BootCampJavaSpring_aa4529e4"
+        }
+    ]
+}
